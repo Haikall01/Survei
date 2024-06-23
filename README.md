@@ -21,7 +21,7 @@ PENGEMABANGAN WEB EVALUASI KEPUASAN PENGGUNA PRODI INFORMATIKA
 
 `Login Admin`
 
-<img src="https://imgur.com/tpy2yM4">
+![LoginAdmin](https://github.com/Haikall01/survei/assets/172413397/62b1f9d7-4b2b-4453-b11c-0b69755fc7ec)
 
 ***
 
