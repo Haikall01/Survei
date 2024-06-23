@@ -13,15 +13,15 @@ PENGEMABANGAN WEB EVALUASI KEPUASAN PENGGUNA PRODI INFORMATIKA
 
 ***
 
+`Survei`
+
+![Survei](https://github.com/Haikall01/survei/assets/172413397/69de591f-6b40-4477-93fe-75ff516950a7)
+
+*** 
+
 `Login Admin`
 
 <img src="https://imgur.com/tpy2yM4">
-
-***
-
-`Survei`
-
-<img src="https://imgur.com/DzLbWJG">
 
 ***
 
