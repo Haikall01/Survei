@@ -1,5 +1,11 @@
 # ES CENDOL
+Muh Ryan | UI/UX
+Haikal | FE
+Fadli | BE
+Al Fani Zahrah | PM
+Ardina | QA
 
+# Judul
 PENGEMABANGAN WEB EVALUASI KEPUASAN PENGGUNA PRODI INFORMATIKA
 
 # METODE 
