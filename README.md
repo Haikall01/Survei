@@ -9,7 +9,7 @@ PENGEMABANGAN WEB EVALUASI KEPUASAN PENGGUNA PRODI INFORMATIKA
 
 `Home`
 
-<img src="[[https://imgur.com/OObU9Jd](https://imgur.com/OObU9Jd)](https://imgur.com/a/7YkNlcU)">
+![Home](https://github.com/Haikall01/survei/assets/172413397/367b6496-35b4-481f-a961-b8e7f30a4b52)
 
 ***
 
