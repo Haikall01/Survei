@@ -2,8 +2,11 @@
 
 PENGEMABANGAN WEB EVALUASI KEPUASAN PENGGUNA PRODI INFORMATIKA
 
-#METODE 
+# METODE 
 - Prototype
+
+# Frameworl
+- Laravel 
 
 ## Preview
 
@@ -27,5 +30,6 @@ PENGEMABANGAN WEB EVALUASI KEPUASAN PENGGUNA PRODI INFORMATIKA
 
 `UpdateSurvei`
 
-<img src="https://imgur.com/T1NljUG">
+![UpdateSurvei](https://github.com/Haikall01/survei/assets/172413397/980ad786-7a0a-4825-ba52-fd0bf0381b4a)
+
 
