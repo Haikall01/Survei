@@ -9,7 +9,7 @@ PENGEMABANGAN WEB EVALUASI KEPUASAN PENGGUNA PRODI INFORMATIKA
 
 `Home`
 
-<img src="[https://imgur.com/OObU9Jd](https://imgur.com/OObU9Jd)">
+<img src="[[https://imgur.com/OObU9Jd](https://imgur.com/OObU9Jd)](https://imgur.com/a/7YkNlcU)">
 
 ***
 
